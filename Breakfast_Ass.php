@@ -23,7 +23,7 @@ List: <select><option>Breakfast</option></select><br>
 <h3 style="color: orange;">Add Task List</h3>
 List <input type="text" name="list"><br>
 <input type="submit" name="add" value="Add List"><br></td></tr>
-<tr><td align="right"><input type="submit" name="clear" value="Clear All"></td></tr>
+<tr><td align="right"><a href="Assessment2.php">Clear All</a></td></tr>
         </table>
     </form>
 </body>

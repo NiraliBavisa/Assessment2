@@ -13,8 +13,8 @@ Add a new list to be managed
 There are no task lists.
 <h3 style="color: orange;">Add Task List</h3>
 List <input type="text" name="list"><br>
-<input type="submit" name="add" value="Add List"><br>
-<input type="submit" name="clear" value="Clear All">
+<a href="Addtask_Ass.php">Add List</a>
+<a href="Assessment2.php">Clear All</a>
     </form>
 </body>
 </html>

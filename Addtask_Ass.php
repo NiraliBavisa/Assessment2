@@ -13,7 +13,7 @@
 There are no tasks in the selected task list.
 <h3 style="color: orange;">Add Task</h3>
 Task: <input type="text"><br>
-<input type="submit" name="t_add" value="Add Task"><br></td>
+<a href="Breakfast_Ass.php">Add Task</a></td>
 <td><h3 style="color: orange;">List Selection</h3>
 List: <select><option>Breakfast</select><br>
 <input type="submit" name="s_add" value="Select List"><br>
